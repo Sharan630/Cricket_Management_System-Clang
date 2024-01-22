@@ -1,0 +1,4 @@
+RCB pranith 4 1 2 2 ramcharan 123 3
+SRH pandu 2 1 1 1 akshith 43 1
+CSK sharan 0 1 2 0 sai 279 0
+MI sanju 0 1 1 0 varshith 246 13
